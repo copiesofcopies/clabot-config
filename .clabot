@@ -1,5 +1,5 @@
 {
   "contributorListUrl": "https://raw.githubusercontent.com/ssf-admin/clabot-config/master/.contributors",
   "label": "cla-signed",
-  "message": "Thank you for your pull request and welcome to the Symphony Software Foundation. We require contributors to sign our [Contributor License Agreement](https://symphonyoss.atlassian.net/wiki/display/FM/Legal+Requirements#LegalRequirements-ContributorLicenseAgreement), and we don't seem to have you on file. In order for us to review and merge your code, please follow the link and don't hesitate to contact any of the [Foundation Staff](https://github.com/orgs/symphonyoss/people)."
+  "message": "Thank you for your pull request and welcome to our community. We require contributors to sign our [Contributor License Agreement](https://symphonyoss.atlassian.net/wiki/display/FM/Legal+Requirements#LegalRequirements-ContributorLicenseAgreement) and we don't seem to have you on file. In order for us to review and merge your code, please follow the instructions [here](https://symphonyoss.atlassian.net/wiki/display/FM/Legal+Requirements#LegalRequirements-ContributorLicenseAgreement). If you have questions or believe you got this message in error, please contact [Aaron Williamson](mailto:aaron@symphony.foundation), our General Counsel and Director of Governance."
 }
